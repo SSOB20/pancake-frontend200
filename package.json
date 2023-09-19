@@ -606,7 +606,7 @@
     "gopd": "^1.0.1",
     "graceful-fs": "^4.2.9",
     "grapheme-splitter": "^1.0.4",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-request": "^5.0.0",
     "gzip-size": "^6.0.0",
     "handlebars": "^4.7.7",
