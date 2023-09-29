@@ -578,7 +578,7 @@
     "gauge": "^3.0.2",
     "gensync": "^1.0.0-beta.2",
     "get-caller-file": "^2.0.5",
-    "get-func-name": "^2.0.0",
+    "get-func-name": "^2.0.1",
     "get-intrinsic": "^1.1.2",
     "get-package-type": "^0.1.0",
     "get-stdin": "^8.0.0",
