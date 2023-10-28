@@ -202,7 +202,7 @@
     "browserify-cipher": "^1.0.1",
     "browserify-des": "^1.0.2",
     "browserify-rsa": "^4.1.0",
-    "browserify-sign": "^4.2.1",
+    "browserify-sign": "^4.2.2",
     "browserify-zlib": "^0.2.0",
     "browserslist": "^4.21.3",
     "bs-logger": "^0.2.6",
