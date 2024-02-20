@@ -676,7 +676,7 @@
     "internmap": "^1.0.1",
     "interpret": "^2.2.0",
     "invariant": "^2.2.4",
-    "ip": "^2.0.0",
+    "ip": "^2.0.1",
     "ipaddr.js": "^1.9.1",
     "is-absolute-url": "^3.0.3",
     "is-accessor-descriptor": "^1.0.0",
