@@ -1504,7 +1504,7 @@
     "web": "^0.1.0",
     "web-namespaces": "^1.1.4",
     "webidl-conversions": "^7.0.0",
-    "webpack": "^4.46.0",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^4.7.0",
     "webpack-dev-middleware": "^3.7.3",
     "webpack-filter-warnings-plugin": "^1.2.1",
