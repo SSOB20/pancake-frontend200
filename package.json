@@ -1220,7 +1220,7 @@
     "rimraf": "^3.0.2",
     "ripemd160": "^2.0.2",
     "rlp": "^2.2.7",
-    "rollup": "^2.77.0",
+    "rollup": "^3.29.5",
     "rollup-plugin-inject": "^3.0.2",
     "rollup-plugin-node-polyfills": "^0.2.1",
     "rollup-pluginutils": "^2.8.2",
