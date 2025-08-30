@@ -273,7 +273,7 @@
     "clsx": "^1.2.1",
     "co": "^4.6.0",
     "code-point-at": "^1.1.0",
-    "codemirror": "^5.65.2",
+    "codemirror": "^6.0.0",
     "codemirror-spell-checker": "^1.1.2",
     "collapse-white-space": "^1.0.6",
     "collect-v8-coverage": "^1.0.1",
