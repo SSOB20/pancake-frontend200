@@ -927,7 +927,7 @@
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
     "mimic-fn": "^2.1.0",
-    "min-document": "^2.19.0",
+    "min-document": "^2.19.1",
     "min-indent": "^1.0.1",
     "mini-create-react-context": "^0.4.1",
     "miniflare": "^2.4.0",
